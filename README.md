@@ -1,4 +1,4 @@
-# CSS-Esssentionals
+# CSS Essentials
 
 Flex-to-Grid correlation cheat sheet:
 
